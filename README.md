@@ -1,7 +1,7 @@
 # Awesome-easter-eggs
 A curated list of Easter eggs in every language you can think of!
 
-## table of Contents
+## Table of Contents
 
 - [FAQs](#faqs)
 - [License](#license)
