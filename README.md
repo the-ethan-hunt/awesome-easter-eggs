@@ -23,4 +23,7 @@ It's simple! You pull a request mentioning a little bit about your Easter Egg an
 
 ## License
 
-The MIT License Copyright (c) 2018 - [Dhruv Apte](https://github.com/the-ethan-hunt)
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Dhruv Apte](http://github.com/the-ethan-hunt) has waived
+all copyright and related or neighboring rights to this work.
