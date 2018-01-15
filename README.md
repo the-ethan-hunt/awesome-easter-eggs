@@ -1,4 +1,7 @@
 # Awesome-easter-eggs
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A curated list of Easter eggs in every language you can think of!
 
 ## Table of Contents
