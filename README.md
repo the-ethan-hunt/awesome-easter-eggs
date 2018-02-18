@@ -4,6 +4,20 @@
 
 A curated list of Easter eggs in every language you can think of!
 
+## Examples
+
+- Python
+  - Open Python Interactive Interpreter, and run
+    ```python 
+    import this
+    ```
+    It will print the philosophy, design principles of Python.
+  - Open Python Interactive Interpreter, and run
+    ```python
+    import antigravity
+    ```
+    It will open your default browser, and open a [classic XKCD comic](https://xkcd.com/).
+
 ## Table of Contents
 
 - [FAQs](#faqs)
