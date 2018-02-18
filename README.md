@@ -4,24 +4,29 @@
 
 A curated list of Easter eggs in every language you can think of!
 
-## Examples
+## Contents
 
-- Python
-  - Open Python Interactive Interpreter, and run
-    ```python 
+- [Languages](#languages)
+  - [Python](#user-content-python)
+- [FAQs](#faqs)
+- [License](#license)
+
+## Languages
+
+### Python
+
+1. The Zen of Python  
+   ```python 
     import this
     ```
-    It will print the philosophy, design principles of Python.
-  - Open Python Interactive Interpreter, and run
+    It will print the Zen of Python.
+    
+ 2. XKCD Comics
     ```python
     import antigravity
     ```
     It will open your default browser, and open a [classic XKCD comic](https://xkcd.com/).
 
-## Table of Contents
-
-- [FAQs](#faqs)
-- [License](#license)
 
 ## FAQs
 
