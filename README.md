@@ -27,7 +27,18 @@ A curated list of Easter eggs in every language you can think of!
     ```
     It will open your default browser, and open a [classic XKCD comic](https://xkcd.com/).
 
+3. Hello World
+   ```python
+   import __hello__
+   ```
+   It will print `Hello World!`
 
+4. April Fool
+   ```python
+   from __future__ import barry_as_FLUFL
+   1<>2
+   ```
+   This April Fool joke was posted about Barry Warsaw.
 ## FAQs
 
 ### What is an Easter Egg?
