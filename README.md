@@ -39,6 +39,19 @@ A curated list of Easter eggs in every language you can think of!
    1<>2
    ```
    This April Fool joke was posted about Barry Warsaw.
+
+5. C-Style braces instead of indentation
+   ``` python
+   from __future__ import braces
+   ```
+
+   This will give the following Output
+   
+   ``` python
+   File "<stdin>", line 1
+   SyntaxError: not a chance
+   ```
+
 ## FAQs
 
 ### What is an Easter Egg?
