@@ -8,6 +8,7 @@ A curated list of Easter eggs in every language you can think of!
 
 - [Languages](#languages)
   - [Python](#user-content-python)
+  - [Go](#user-content-go)
 - [FAQs](#faqs)
 - [License](#license)
 
@@ -52,6 +53,19 @@ A curated list of Easter eggs in every language you can think of!
    SyntaxError: not a chance
    ```
 
+### Go
+
+1. Easter Egg in net package
+   
+   In `src/net/net.go`, we find this variable:
+   ``` go
+   // aLongTimeAgo is a non-zero time, far in the past, used for
+   // immediate cancelation of dials.
+   aLongTimeAgo = time.Unix(233431200, 0)
+   ```
+   This Unix timestamp converts to May 25, 1977 @ 6pm. The day Star Wars opened in theaters -- hence
+   "a long time ago." Cute!
+   
 ## FAQs
 
 ### What is an Easter Egg?
