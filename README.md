@@ -8,6 +8,8 @@ A curated list of Easter eggs in every language you can think of!
 
 - [Languages](#languages)
   - [Python](#user-content-python)
+  - [Go](#user-content-go)
+- [Terminal](#terminal)
 - [FAQs](#faqs)
 - [License](#license)
 
@@ -52,6 +54,61 @@ A curated list of Easter eggs in every language you can think of!
    SyntaxError: not a chance
    ```
 
+### Go
+
+1. Easter Egg in net package
+   
+   In `src/net/net.go`, we find this variable:
+   ``` go
+   // aLongTimeAgo is a non-zero time, far in the past, used for
+   // immediate cancelation of dials.
+   aLongTimeAgo = time.Unix(233431200, 0)
+   ```
+   This Unix timestamp converts to May 25, 1977 @ 6pm. The day Star Wars opened in theaters -- hence
+   "a long time ago." Cute!
+  
+## Terminal
+
+### ASCII drawings and cute jokes
+
+1. Mysterious super cow power
+
+   ```
+   $ apt-get moo
+                 (__) 
+                 (oo) 
+           /------\/ 
+          / |    ||   
+         *  /\---/\ 
+            ~~   ~~   
+   ..."Have you mooed today?"...
+   ```
+2. Daniel Burrows Easter Egg
+
+   ```
+   $ aptitude moo 
+   There are no Easter Eggs in this program. 
+   $ aptitude -v moo 
+   There really are no Easter Eggs in this program. 
+   $ aptitude -vv moo 
+   Didn't I already tell you that there are no Easter Eggs in this program? 
+   $ aptitude -vvv moo 
+   Stop it! 
+   $ aptitude -vvvv moo 
+   Okay, okay, if I give you an Easter Egg, will you go away? 
+   $ aptitude -vvvvv moo 
+   All right, you win.
+
+                               /----\
+                       -------/      \
+                      /               \
+                     /                |
+   -----------------/                  --------\
+   ----------------------------------------------
+   $ aptitude -vvvvvv moo 
+   What is it? It's an elephant being eaten by a snake, of course.
+   ```
+   
 ## FAQs
 
 ### What is an Easter Egg?
